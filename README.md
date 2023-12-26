@@ -1,7 +1,7 @@
 # PandasSpeedTests
 
 ## Introduction
-Welcome to PandasSpeedTests! This repository is designed to test and benchmark Python Pandas acceleration tools, focusing on identifying the most efficient methods for data processing and analysis.
+This repository is designed to test and benchmark Python Pandas acceleration tools, focusing on identifying the most efficient methods for data processing and analysis.
 
 ## Key Comparisons
 In this project, we are specifically comparing the following technologies:
