@@ -1,0 +1,11 @@
+# This is a requirement.txt file
+# to install all these requirements:
+# `pip install -r requirements.txt`
+# Make sure you have pip installed!
+# To update just use `pip install -r requirements.txt --upgrade`
+pandas
+dask
+datatable
+# cudf
+modin[ray]
+ipykernel
