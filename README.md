@@ -25,4 +25,4 @@ python CreateSample.py --output large_dataset.csv --size 1
 ```
 
 ## read_csv
-![Alt text](image.png)
+<img src = "https://github.com/wsxqaza12/PandasSpeedTests/blob/master/result_png/read_csv.png" width ="400" />
