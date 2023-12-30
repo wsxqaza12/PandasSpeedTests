@@ -6,6 +6,5 @@
 pandas
 dask
 datatable
-# cudf
 modin[ray]
-ipykernel
+# ipykernel

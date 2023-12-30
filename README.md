@@ -17,3 +17,12 @@ Each of these technologies offers unique approaches to accelerate Pandas operati
 - **Benchmarking Reports**: Conducting comprehensive performance tests across different data sizes and operations.
 - **Optimization Techniques**: Exploring and documenting best practices for each technology to optimize performance.
 - **Comparative Analysis**: Providing detailed comparisons to help users choose the right tool for their specific needs.
+
+## Testing Data
+Use the following code to create your test data. --output and --size are optional.
+```
+python CreateSample.py --output large_dataset.csv --size 1
+```
+
+## read_csv
+![Alt text](image.png)
