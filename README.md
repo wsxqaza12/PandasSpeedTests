@@ -29,5 +29,8 @@ python CreateSample.py --output large_dataset.csv --size 5
 ## read_csv
 <img src = "https://github.com/wsxqaza12/PandasSpeedTests/blob/master/result_png/read_csv_5G_wins.png" width ="400" />
 
+## group by | agg 1 columns
+<img src = "https://github.com/wsxqaza12/PandasSpeedTests/blob/master/result_png/groupby_agg1_wins.png" width ="400" />
+
 ## group by | agg 2 columns
 <img src = "https://github.com/wsxqaza12/PandasSpeedTests/blob/master/result_png/groupby_agg2_wins.png" width ="400" />
