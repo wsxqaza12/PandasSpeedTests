@@ -5,6 +5,7 @@ This repository is designed to test and benchmark Python Pandas acceleration too
 
 ## Key Comparisons
 In this project, we are specifically comparing the following technologies:
+- **Pandas**: original package.
 - **Modin**: An innovative library that accelerates Pandas using parallel and distributed computing.
 - **cuDF**: A RAPIDS AI library that provides a Pandas-like API accelerated by NVIDIA GPUs.
 - **Dask**: A flexible parallel computing library for analytic computing.
@@ -21,7 +22,7 @@ Each of these technologies offers unique approaches to accelerate Pandas operati
 ## Testing Data
 Use the following code to create your test data. --output and --size are optional.
 ```
-python CreateSample.py --output large_dataset.csv --size 1
+python CreateSample.py --output large_dataset.csv --size 5
 ```
 
 ## read_csv
